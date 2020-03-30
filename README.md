@@ -26,5 +26,5 @@
 #Di awal tadi terdapat beberapa button, salah satunya button edit. Ini tampilannya. Di from edit hanya dapat mengedit tanggal pinjam 
 #![AltText](https://github.com/natasyaadelia/Modul-Native-3-4/blob/master/lima.JPG)
 #Tanggal pinjam diubah menjadi tanggal 14
-#1[AltText](https://github.com/natasyaadelia/Modul-Native-3-4/blob/master/enam.JPG)
+#![AltText](https://github.com/natasyaadelia/Modul-Native-3-4/blob/master/enam.JPG)
 #Dan tanggalnya telah diubah. Yang semula 10 Maret menjadi 14 Maret
