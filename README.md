@@ -4,7 +4,7 @@
 #![AltText](https://github.com/natasyaadelia/Modul-Native-3-4/blob/master/anggota.JPG)
 #Tampilan dari anggota
 #![AltText]()
-#Ketika button 'Tambah' diklik maka anggota akan tambah anggota
+#Form tambah anggota
 #![AltText](https://github.com/natasyaadelia/Modul-Native-3-4/blob/master/buku.JPG)
 #Tambilan dari buku
 #[AltText]()
