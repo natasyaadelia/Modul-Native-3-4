@@ -64,5 +64,5 @@ $detail = mysqli_fetch_assoc($res);
     </div>
 </div>
 <?php
-include '../assets/footer.php';
+include '../aset/footer.php';
 ?>
