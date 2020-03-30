@@ -19,7 +19,7 @@
 #![AltText](https://github.com/natasyaadelia/Modul-Native-3-4/blob/master/satu.JPG)
 #Tampilan dari peminjaman. Di atas ada anggota yang meminjam buku, kemudian akan dilihat di detail juga edit
 #![AltText](https://github.com/natasyaadelia/Modul-Native-3-4/blob/master/dua.JPG)
-#Jika button detail diklik maka akan menampilkan detail dari peminjaman dari judul, tgl pinjam, tgl jatuh tempo, tgl kembali, juga status dari buku yang sudah dikembalikan
+#Jika button 'Form Pengembalian diklik maka akan menampilkan detail dari peminjaman dari judul, tgl pinjam, tgl jatuh tempo, tgl kembali, juga status dari buku yang sudah dikembalikan
 #![AltText](https://github.com/natasyaadelia/Modul-Native-3-4/blob/master/tiga.JPG)
 #Ketika button 'Form Pengembalian dibuka maka akan tampil seperti di atas. Di sini hanya bisa mengedit tanggal kembali dari buku yang dipinjam
 #![AltText](https://github.com/natasyaadelia/Modul-Native-3-4/blob/master/empat.JPG)
