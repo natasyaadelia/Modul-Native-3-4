@@ -14,7 +14,7 @@
 #Form tambah buku
 #![AltText](https://github.com/natasyaadelia/Modul-Native-3-4/blob/master/jadi%20buku.JPG)
 #Bisa dilihat buku bertambah di baris ke-3
-# Modul 4
+# Modul 4 dan Modul 5
 # Detail dan edit pada peminjaman
 #![AltText](https://github.com/natasyaadelia/Modul-Native-3-4/blob/master/satu.JPG)
 #Tampilan dari peminjaman. Di atas ada anggota yang meminjam buku, kemudian akan dilihat di detail juga edit
@@ -28,8 +28,6 @@
 #Tanggal pinjam diubah menjadi tanggal 14
 #![AltText](https://github.com/natasyaadelia/Modul-Native-3-4/blob/master/enam.JPG)
 #Dan tanggalnya telah diubah. Yang semula 10 Maret menjadi 14 Maret
-# Modul 5
-
 # Modul 6
 #![AltText](https://github.com/natasyaadelia/Modul-Native-3-4-5-6-/blob/master/login.JPG)
 #Form login sedikit saya ubah dengan tampilan seperti ini. Jika login berhasil akan masuk pada Dashboard.
